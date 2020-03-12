@@ -7,7 +7,7 @@ export const portfolioData = {
             title: '3D Helmet Design',
             subTitle: 'Corporate',
             image:'/images/helmet.webp',
-            category: 'vector'
+            category: 'raster'
         },
         {
             title: '2D Vinyl Design',
@@ -62,6 +62,18 @@ export const portfolioData = {
             subTitle: 'Agency',
             image:'/images/record.webp',
             category: 'ui/ux'
+        },
+        {
+            title: 'Embosed Logo Design',
+            subTitle: 'Portal',
+            image:'/images/helmet.webp',
+            category: 'printing'
+        },
+        {
+            title: '2D Vinyl Design',
+            subTitle: 'Personal',
+            image:'/images/poster.webp',
+            category: 'raster'
         },
         {
             title: 'Embosed Logo Design',
