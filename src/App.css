@@ -10,3 +10,8 @@ body {
   color: rgb(181,178,178) !important;
   transform: scale(1.1) !important;
 }
+
+.cardbox:hover {
+  box-shadow: none !important;
+  cursor: pointer;
+}
